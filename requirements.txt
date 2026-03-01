@@ -1,0 +1,3 @@
+streamlit
+# Opcional: si decides usar pandas para manejar datos del JSON
+pandas
