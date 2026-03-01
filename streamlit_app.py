@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import os
 
-st.set_page_config(page_title="Mi Índice de Proyectos", layout="wide")
+st.set_page_config(page_title=" FTDStudio | Mi Índice de Proyectos", layout="wide")
 
 st.title("📂 Mi Portafolio de Proyectos")
 st.write("Explora mis últimos trabajos en optimización y datos.")
