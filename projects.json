@@ -7,10 +7,10 @@
         "tag": "Finanzas"
     },
     {
-        "titulo": "Estrategia BPO",
+        "titulo": "CCAgents",
         "descripcion": "Dashboard de KPIs para operaciones de Call Center.",
-        "link": "https://tu-app-bpo.streamlit.app",
-        "imagen": "assets/bpo_dashboard.png",
+        "link": "https://ccagents.streamlit.app/",
+        "imagen": "assets/ccagents.png",
         "tag": "Operaciones"
     }
 ]
