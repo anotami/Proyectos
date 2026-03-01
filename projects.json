@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "platitAI  ",
+        "descripcion": "para monitoreo de gastos",
+        "link": "https://platitai.streamlit.app/",
+        "imagen": "assets/inversion.png",
+        "tag": "Finanzas"
+    },
+    {
+        "titulo": "Estrategia BPO",
+        "descripcion": "Dashboard de KPIs para operaciones de Call Center.",
+        "link": "https://tu-app-bpo.streamlit.app",
+        "imagen": "assets/bpo_dashboard.png",
+        "tag": "Operaciones"
+    }
+]
