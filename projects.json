@@ -12,7 +12,7 @@
         "link": "https://ccagents.streamlit.app/",
         "imagen": "assets/ccagents.png",
         "tag": "Operaciones"
-    }
+    },
 
       {
         "titulo": "Moving Motivators",
@@ -20,7 +20,7 @@
         "link": "https://movingmotivators.streamlit.app/",
         "imagen": "assets/moving.png",
         "tag": "RRHH"
-    }
+    },
         {
         "titulo": "Callado BT",
         "descripcion": "Herramienta de inventigacion sobre BT",
