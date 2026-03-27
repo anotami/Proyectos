@@ -13,4 +13,21 @@
         "imagen": "assets/ccagents.png",
         "tag": "Operaciones"
     }
+
+      {
+        "titulo": "Moving Motivators",
+        "descripcion": "Herramienta para la toma de decisiones racional",
+        "link": "https://movingmotivators.streamlit.app/",
+        "imagen": "assets/moving.png",
+        "tag": "RRHH"
+    }
+        {
+        "titulo": "Callado BT",
+        "descripcion": "Herramienta de inventigacion sobre BT",
+        "link": "https://calladobt.streamlit.app/",
+        "imagen": "assets/callado.png",
+        "tag": "Proyectos"
+    }
 ]
+
+
