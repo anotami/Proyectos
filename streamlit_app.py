@@ -5,7 +5,7 @@ import os
 st.set_page_config(page_title=" FTDStudio | Mi Índice de Proyectos", layout="wide")
 
 st.title("📂 Mi Portafolio de Proyectos")
-st.write("Explora mis últimos trabajos en optimización y datos.")
+st.write("Explora mis últimos trabajos en optimización y datos. Contacto a anotami@gmail.com ")
 
 # Función para cargar los proyectos desde el JSON
 def cargar_proyectos():
